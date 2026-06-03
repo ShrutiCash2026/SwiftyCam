@@ -9,6 +9,8 @@
 
 ## Overview
 
+mbcaisbfaksdfhshdhflashfjsdhfadshfkjshuiehhwkfafkdsahfkjahsdfhasdhfjasfjasbfbasjkhfashkjffyinformationhotccpoehiwhuirqwhfjkasfjkahskfkjasbfjsdabfweryiquwgfuewqhfkslkfjbjasdhfjasbfadsnfkasdxzmvnbasdfhja
+
 SwiftyCam is a a simple, Snapchat-style iOS Camera framework for easy photo and video capture. SwiftyCam allows users to capture both photos and videos from the same session with very little configuration.
 
 Configuring a Camera View Controller in AVFoundation can be tedious and time consuming. SwiftyCam is a drop in View Controller which gives complete control of the AVSession.
