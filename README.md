@@ -7,9 +7,9 @@
     <img src="http://img.shields.io/badge/license-BSD-lightgrey.svg?style=flat" alt="License: BSD" /> <br><br>
 </p>
 
-## Overview
-
 mbcaisbfaksdfhshdhflashfjsdhfadshfkjshuiehhwkfafkdsahfkjahsdfhasdhfjasfjasbfbasjkhfashkjffyinformationhotccpoehiwhuirqwhfjkasfjkahskfkjasbfjsdabfweryiquwgfuewqhfkslkfjbjasdhfjasbfadsnfkasdxzmvnbasdfhja
+
+## Overview
 
 SwiftyCam is a a simple, Snapchat-style iOS Camera framework for easy photo and video capture. SwiftyCam allows users to capture both photos and videos from the same session with very little configuration.
 
